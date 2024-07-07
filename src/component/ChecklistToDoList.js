@@ -25,7 +25,7 @@ function ChecklistToDoList() {
 
   return (
     <div className="checklist-todo-list-container">
-      <h1>Checklist To-Do List</h1>
+      <h1>Checklist</h1>
       <div className="form">
         <input
           type="text"
